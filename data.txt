@@ -1,0 +1,24 @@
+-------------------------------------
+Name: Paweł
+Age: 35
+Married: true
+Gender: MALE
+
+-------------------------------------
+Name: Kinga
+Age: 38
+Married: true
+Gender: FEMALE
+
+-------------------------------------
+Name: Tomek
+Age: 20
+Married: false
+Gender: MALE
+
+-------------------------------------
+Name: Tomek
+Age: 20
+Married: false
+Gender: MALE
+
